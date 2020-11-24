@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "first-angular"
+  "defaultProject": "first-angular",
+  "cli": {
+    "analytics": "a2539ff5-a3aa-427a-b8d1-8f5715e8fe6e"
+  }
 }
